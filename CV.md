@@ -13,3 +13,11 @@
 
 
 ***
+## Education
+
+|Name of educational institution    | Belarusian State College of Communications | Belarusian State University of Informatics and Radioelectronics |
+:-----------:|:-------:|:-----:|
+**Period of study (from/to)**       |   2012-2016 | 2016-2021 |
+|**Faculty**    |   Faculty of Telecommunications | Faculty of infocommunications
+|**Specialty**        |   Telecommunication networks | Infocommunication technologies (infocommunication networks)|
+***
