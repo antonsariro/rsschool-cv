@@ -21,3 +21,8 @@
 |**Faculty**    |   Faculty of Telecommunications | Faculty of infocommunications
 |**Specialty**        |   Telecommunication networks | Infocommunication technologies (infocommunication networks)|
 ***
+## Professional skills (technologies and programming languages)
+* **JavaScript** - ***Trainee***
+* **HTML** - ***Trainee***
+* **CSS** - ***Trainee***
+ ***
