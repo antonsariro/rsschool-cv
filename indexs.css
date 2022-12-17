@@ -1,0 +1,142 @@
+:root {
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+}
+ul {
+    list-style-type: none;
+}
+
+header {
+    width: 100%;
+    
+}
+.navi .cont_nav {
+    display: flex;
+    gap: 4vw;
+    width: 78vw;
+    margin: auto ;
+    justify-content: center;
+    height: 45px;
+    align-items: center;
+    background-color: #709b90;
+}
+.cont_nav li a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4em;
+}
+.cont_nav li a:hover{
+    text-decoration: underline;
+}
+.contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    background-color: #709b90;
+}
+.contact img {
+    width: 37vw;
+    margin: auto;
+    
+}
+.contact .details {
+    background-color: #709b90;
+}
+.details h1 {
+    text-align: center;
+    border-bottom: 3px solid black;
+    font-size: 2rem;
+    width: 21vw;
+    margin: 1.9rem auto;
+}
+
+.details h2 {
+    text-align: center;
+}
+.details ul li {
+    text-align: left;
+    font-size: large;
+    margin: 12px 0;
+}
+.details ul li a:hover {
+    text-decoration: underline;
+}
+.details ul li a {
+    text-decoration: none;
+    color: black;
+}
+.container {
+    width: 78vw;
+    margin: 0 auto;
+}
+.education caption {
+    text-align: center;
+    margin: 56px 0 6px 0;
+}
+.education table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: large;
+}
+
+.education table {
+    width: 100%;
+}
+
+.education td {
+    height: 1.9rem;
+}
+.skills ul li {
+    font-size: large;
+}
+
+.Myself p {
+    font-size: large;
+}
+
+footer {
+    width: 78vw;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.4em;
+    background-color: #709b90;
+    padding: 0 2vw 0 2vw;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: black;
+}
+footer ul li a:hover {
+    text-decoration: underline;
+    
+}
+footer ul {
+    display: flex;
+    gap: 4vw;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer ul li img {
+    height: 4vw;
+    background-color: aliceblue;
+}
+
+footer svg {
+    width: 10vw;
+}
